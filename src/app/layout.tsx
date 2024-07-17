@@ -1,6 +1,11 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import { cn } from "./lib/utils";
+import Providers from "@/components/Providers";
+import Navbar from "@/components/Navbar/Navbar";
+import { Toaster } from "react-hot-toast";
+import Chat from "@/components/Chatbot/Chat";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -16,7 +21,19 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <Providers>
+        <body
+          className={cn(
+            "min-h-screen font-sans antialiased grainy",
+            inter.className
+          )}
+        >
+          <Navbar />
+          <Chat />
+          <Toaster position="bottom-center" />
+          {children}
+        </body>
+      </Providers>
     </html>
   );
 }

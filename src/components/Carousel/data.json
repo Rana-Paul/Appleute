@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "img": "/img/c1.png",
+      "title": "Native App Development",
+      "details": "The App Store is where we live. Whether you’re building an MVP for your start-up idea or if you are taking your existing app to the next level. Appleute makes use of all system features from the operating systems (Android and iOS) that have been written for the specific platform to perfectly integrate into the host system – this will lead to an improved user experience. "
+    },
+    {
+      "img": "/img/c2.png",
+      "title": "Web App Development",
+      "details": "Often used to get a quick product online, its development is often underestimated. Web-app development requires full understanding during the application planning process in order to implement all functionalities of the application in an integrated manner. Creating a responsive design across different browsers and devices is key for a great user experience."
+    },
+    {
+      "img": "/img/c3.png",
+      "title": "Hybrid App Development",
+      "details": "Hybrid App development is the right solution for exhaustive consumer apps. The app is developed once only but runs across all platforms (Web, iOS, and Android). Making use of appleute’s agile development process, multi-platform apps are the most cost-effective and appropriate alternative to native app development. "
+    },
+    {
+      "img": "/img/c4.png",
+      "title": "API Development",
+      "details": "API integration services are a necessary tool for many companies. Often large corporates are using outdated technologies that new, innovative systems have to integrate into. appleute empowers businesses with API development that covers fields such as payment providers, accounting software, and ERP-software."
+    },
+    {
+      "img": "/img/c5.png",
+      "title": "MVP Development",
+      "details": "Often apps are just an idea at the beginning, which customers want to test with a few customers/users first. For this purpose, the development focuses exclusively on the essential functions. After confirmation or proof of concept, additional functions are added and old ones are improved. The development of an MVP is also often used by start-ups."
+    },
+    {
+      "img": "/img/c6.png",
+      "title": "Android development.",
+      "details": "Android development is a category of native app development. Android devices are generally more widely used than iOS devices (up to 95% market share). Depending on the market, it often makes sense to develop exclusively on Android. In this case, apps are developed specifically for the Android operating system and optimized for it. Our stack ranges from Kotlin to Java and C++.  "
+    },
+    {
+      "img": "/img/c7.png",
+      "title": "Cross-platform app development",
+      "details": "Cross-platform app development is widely used. Many large apps, such as Facebook and Uber, have been built using these technologies. While Facebook has developed and uses its own React Native development language, there are many other languages that are commonly used."
+    },
+    {
+      "img": "/img/c8.png",
+      "title": "iOS Development",
+      "details": "iOS development is a category of native app development. iOS devices have only a small market share. However, this can vary greatly from approx.5%-30%). When apps are created for large user bases, it can often make sense to develop natively, i.e. on the iOS operating system."
+    }
+  ]
+}
